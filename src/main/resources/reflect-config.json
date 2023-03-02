@@ -1,0 +1,83 @@
+[
+  {
+    "name": "org.eclipse.paho.mqttv5.client.logging.JSR47Logger",
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "org.eclipse.paho.mqttv5.client.internal.ResourceBundleCatalog",
+    "allPublicFields": true,
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "java.util.ResourceBundle",
+    "allPublicFields": true,
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "org.eclipse.paho.mqttv5.client.internal.MessageCatalog",
+    "allPublicFields": true,
+    "allDeclaredFields": true,
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  },
+  {
+    "name": "kotlin.reflect.jvm.internal.ReflectionFactoryImpl",
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "kotlin.KotlinVersion",
+    "allPublicMethods": true,
+    "allDeclaredFields": true,
+    "allDeclaredMethods": true,
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "kotlin.KotlinVersion[]"
+  },
+  {
+    "name": "kotlin.KotlinVersion$Companion"
+  },
+  {
+    "name": "kotlin.KotlinVersion$Companion[]"
+  },
+  {
+    "name": "me.kocproz.conveyor.data.ConfigFile",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true
+  },
+  {
+    "name": "me.kocproz.conveyor.data.DeviceDefinition",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true
+  },
+  {
+    "name": "me.kocproz.conveyor.data.SensorDefinition",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true
+  },
+  {
+    "name": "me.kocproz.conveyor.data.BinarySensorDefinition",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true
+  },
+  {
+    "name": "org.tinylog.writers.ConsoleWriter",
+    "allDeclaredConstructors": true,
+    "allPublicConstructors": true,
+    "allDeclaredFields": true
+  }
+]
